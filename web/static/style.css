@@ -1,0 +1,25 @@
+.navi nav{
+    background-color: rgb( 244, 58, 85 );
+    color: #fff;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.search{
+    background-color: #000;
+    color: #fff;
+}
+.search img{
+    width: 230px;
+}
+.navi1 nav{
+    background-color: #000;
+    color:#fff;
+}
+/* .shadow {
+    background: #fc0; 
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); 
+    padding: 10px;
+   }  */
+
+
